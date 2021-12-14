@@ -38,3 +38,7 @@ Now Migrate
  6. Run the application  
  
  python3.8 manage.py runserver. 
+
+ 8. Testing the application  
+ 
+ python manage.py test 
