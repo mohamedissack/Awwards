@@ -30,3 +30,11 @@ To get the project .......
 
 5. Setup Database  
   SetUp your database User,Password, Host then make migrate  
+  python manage.py makemigrations app 
+Now Migrate  
+  
+ python manage.py migrate 
+
+ 6. Run the application  
+ 
+ python3.8 manage.py runserver. 
