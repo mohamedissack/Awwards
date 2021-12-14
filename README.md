@@ -51,3 +51,6 @@ Now Migrate
   
 ## Author  
 Mohamed Issack
+
+## License 
+[MIT]
