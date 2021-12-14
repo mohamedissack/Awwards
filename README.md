@@ -24,3 +24,6 @@ To get the project .......
  
  cd Istagram-app pip install -r requirements.txt 
 
+4. Install Dependencies  
+ 
+ pip install -r requirements.txt 
