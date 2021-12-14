@@ -17,3 +17,4 @@ To get the project .......
   
 1. Cloning the repository:  
  
+ git clone :https://github.com/mohamedissack/Awwards.git
