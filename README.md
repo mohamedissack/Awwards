@@ -27,3 +27,6 @@ To get the project .......
 4. Install Dependencies  
  
  pip install -r requirements.txt 
+
+5. Setup Database  
+  SetUp your database User,Password, Host then make migrate  
