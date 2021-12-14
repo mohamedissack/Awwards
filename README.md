@@ -11,6 +11,11 @@ This is a Django application for displaying different projects and different use
 * Search for projects   
 * View projects overall score
 * View my profile page
+
+
+#  Live Link  
+Click to visit the webite: https://award4000.herokuapp.com/
+
   
 # Setup and Installation  
 To get the project .......  
