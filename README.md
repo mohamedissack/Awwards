@@ -42,3 +42,10 @@ Now Migrate
  8. Testing the application  
  
  python manage.py test 
+
+ ## Technology used  
+  
+* Python3.8
+* Django 3.29
+* Heroku
+  
