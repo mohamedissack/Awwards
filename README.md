@@ -12,3 +12,8 @@ This is a Django application for displaying different projects and different use
 * View projects overall score
 * View my profile page
   
+# Setup and Installation  
+To get the project .......  
+  
+1. Cloning the repository:  
+ 
