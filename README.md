@@ -49,3 +49,5 @@ Now Migrate
 * Django 3.29
 * Heroku
   
+## Author  
+Mohamed Issack
